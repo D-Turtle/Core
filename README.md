@@ -4,4 +4,4 @@
 
 * Project is aiming to provide a better UX to these kind of applications.  
 
-* This repo is to share the common modules share between components. 
+* This repo is to share the common modules shared between components. 
